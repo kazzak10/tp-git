@@ -1,1 +1,1 @@
-guide novanotes version main
+guide novanotes version final fusionner
