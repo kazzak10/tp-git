@@ -1,1 +1,1 @@
-Guide v1
+Guide Novanotes - version guide
